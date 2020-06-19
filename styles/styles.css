@@ -7,7 +7,6 @@
 body {
   font-family: sans-serif;
 
-
 }
 
 
@@ -189,7 +188,7 @@ li.fade {
 #mainPage{
   margin:0;
     padding:0;
-    padding-bottom:200px;
+    padding-bottom:270px;
       background-color: black;
       p
 }
