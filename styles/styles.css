@@ -961,7 +961,7 @@ text-align: center;
   box-shadow: 0px 0.5px 0.5px 0px;
     width:350px;
     height:250px;
-    background: #000;
+  
   }
   .figure1:after{
    background-size: 350px 250px;
@@ -975,10 +975,24 @@ text-align: center;
   .figure4:after{
    background-size: 350px 250px;
   }
+  .about h2{
+
+
+    padding: 15px;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #EA0D32;
+
+  }
+  .about p{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    color: #000;
+  }
   /* contact section */
 
     .contact-form{
-      max-width: 425px;
+      max-width: 470px;
     }
     .contact-form-btn{
       padding: 7px 25px;
