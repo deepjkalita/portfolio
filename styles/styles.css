@@ -834,6 +834,14 @@ ul li:nth-child(5) a:hover .fab{
     height: 40px;
     width: 60px;
   }
+  .nav-links.open {
+    background:#262626;
+    clip-path: circle(900px at 90% -10%);
+    -webkit-clip-path: circle(900px at 90% -10%);
+    pointer-events: all;
+    z-index: 5;
+
+  }
   /* animated text */
   .fancy{
 
